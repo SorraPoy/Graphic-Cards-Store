@@ -1,0 +1,1 @@
+E-commerce website with product management capabilities, including adding, deleting, and editing products. The website features a user registration and login system, along with an admin dashboard for managing website content and monitoring user activities.
